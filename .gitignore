@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# PyCharm
+.idea/
+__pycache__/
+
+# Environment variables
+.env
+
+# Reference code
+reference/
+
